@@ -1,0 +1,5772 @@
+{
+	"162a_2019_110619_217661_501_11.jpg888422": {
+		"fileref": "",
+		"size": 888422,
+		"filename": "162a_2019_110619_217661_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [838, 801, 784, 770, 789, 789, 770, 721, 689, 706, 729, 772, 852, 852, 857, 938, 925, 944, 1012, 1059, 1054, 1037, 991, 995, 995, 965, 946, 933, 927, 899, 929, 903, 876, 852, 838],
+					"all_points_y": [213, 261, 304, 359, 402, 442, 459, 485, 557, 610, 687, 748, 814, 923, 1269, 1269, 810, 774, 731, 657, 578, 521, 521, 485, 436, 400, 359, 325, 291, 285, 264, 219, 193, 202, 213]
+				},
+				"region_attributes": {
+					"Custom": "Small Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2092, 2092, 2020, 2005, 1998, 2011, 2039, 2030, 2013, 2026, 2022, 2162, 2177, 2264, 2268, 2421, 2428, 2383, 2364, 2317, 2281, 2241, 2162, 2092],
+					"all_points_y": [716, 716, 770, 838, 916, 986, 980, 991, 1101, 1169, 1324, 1344, 1380, 1395, 1358, 1378, 568, 561, 576, 582, 668, 689, 693, 716]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217670_501_11.jpg766651": {
+		"fileref": "",
+		"size": 766651,
+		"filename": "162a_2019_110619_217670_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [106, 128, 134, 147, 153, 155, 155, 149, 145, 149, 149, 115, 91, 91, 98, 89, 85, 85, 94, 106],
+					"all_points_y": [927, 931, 950, 959, 982, 1012, 1037, 1048, 1082, 1099, 1125, 1137, 1131, 1114, 1099, 1040, 1012, 961, 944, 927]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [30, 83, 89, 89, 83, 68, 45, 38, 23, 13, 9, 34, 30],
+					"all_points_y": [1131, 1135, 1093, 1040, 935, 921, 918, 946, 959, 1020, 1052, 1050, 1131]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1550, 1550, 1577, 1584, 1603, 1605, 1597, 1575, 1565, 1563, 1537, 1531, 1524, 1514, 1509, 1529, 1522, 1533, 1531, 1550],
+					"all_points_y": [1082, 1082, 1078, 1057, 1052, 1014, 969, 912, 897, 880, 880, 910, 923, 944, 969, 967, 1016, 1037, 1063, 1082]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1361, 1388, 1395, 1407, 1403, 1397, 1384, 1361, 1358, 1350, 1350, 1358, 1361],
+					"all_points_y": [1012, 1012, 957, 944, 916, 886, 867, 872, 893, 929, 946, 959, 1012]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [880, 980, 986, 976, 955, 889, 882, 867, 876, 869, 880],
+					"all_points_y": [969, 963, 918, 891, 869, 878, 901, 916, 927, 967, 969]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [610, 610, 610, 638, 640, 653, 653, 646, 644, 617, 608, 604, 595, 610],
+					"all_points_y": [863, 863, 863, 859, 869, 884, 923, 944, 1003, 993, 933, 921, 893, 863]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [572, 576, 555, 565, 561, 599, 606, 606, 591, 572],
+					"all_points_y": [865, 865, 918, 946, 999, 1001, 944, 903, 861, 865]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1288, 1288, 1303, 1310, 1310, 1303, 1305, 1288, 1280, 1271, 1288],
+					"all_points_y": [855, 855, 857, 874, 891, 906, 938, 933, 903, 876, 855]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1327, 1307, 1314, 1307, 1320, 1339, 1339, 1333, 1327],
+					"all_points_y": [944, 935, 895, 861, 848, 872, 899, 918, 944]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1093, 1176, 1173, 1180, 1184, 1163, 1125, 1097, 1080, 1086, 1093],
+					"all_points_y": [946, 946, 914, 899, 886, 878, 863, 876, 893, 914, 946]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [993, 993, 1059, 1054, 1037, 1001, 984, 993],
+					"all_points_y": [914, 914, 914, 886, 859, 855, 876, 914]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [60, 173],
+					"all_points_y": [876, 959]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [281, 227, 210, 225, 181, 106, 4, 6, 634, 627, 729, 767, 872, 736, 355, 338, 295, 281],
+					"all_points_y": [989, 986, 989, 844, 801, 780, 774, 9, 4, 102, 166, 232, 459, 670, 704, 765, 808, 989]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [525, 557, 563, 634, 702, 780, 899, 929, 685, 440, 283, 285, 278, 417, 506, 525, 525],
+					"all_points_y": [969, 967, 797, 791, 733, 723, 648, 548, 247, 251, 374, 542, 678, 729, 791, 808, 969]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2075, 2102, 2228, 2304, 2328, 2273, 2213, 2130, 2075],
+					"all_points_y": [923, 895, 882, 897, 914, 912, 940, 948, 923]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2398, 2268, 2226, 2247, 2270, 2315, 2353, 2366, 2398],
+					"all_points_y": [903, 901, 935, 955, 957, 980, 980, 967, 903]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [398, 398, 427, 427, 402, 398],
+					"all_points_y": [1061, 1061, 1063, 427, 417, 1061]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1335, 1331, 1297, 1307, 1337, 1369, 1361, 1335],
+					"all_points_y": [589, 591, 674, 810, 814, 770, 629, 589]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"18": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1150, 1146, 1159, 1182, 1180, 1173, 1150],
+					"all_points_y": [844, 869, 869, 876, 852, 846, 844]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"19": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1195, 1212, 1212, 1201, 1190, 1195],
+					"all_points_y": [886, 884, 842, 835, 840, 886]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"20": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1242, 1203, 1201, 1212, 1233, 1244, 1242],
+					"all_points_y": [791, 791, 831, 842, 844, 818, 791]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"21": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [746, 746, 763, 759, 740, 746],
+					"all_points_y": [961, 961, 957, 712, 714, 961]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217671_501_11.jpg765028": {
+		"fileref": "",
+		"size": 765028,
+		"filename": "162a_2019_110619_217671_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1667, 1699, 1701, 1724, 1743, 1747, 1713, 1716, 1652, 1665, 1654, 1639, 1637, 1656, 1667],
+					"all_points_y": [884, 891, 923, 944, 1033, 1093, 1105, 1135, 1116, 1095, 991, 980, 944, 923, 884]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1388, 1388, 1356, 1352, 1346, 1365, 1390, 1382, 1386, 1382, 1388],
+					"all_points_y": [940, 940, 940, 884, 861, 840, 835, 861, 884, 914, 940]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1125, 1203, 1210, 1216, 1195, 1129, 1120, 1125],
+					"all_points_y": [929, 927, 908, 878, 855, 859, 878, 929]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [753, 893, 912, 916, 899, 884, 825, 782, 765, 746, 750, 744, 753],
+					"all_points_y": [1029, 1020, 1006, 963, 916, 893, 880, 891, 916, 931, 950, 989, 1029]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [978, 1059, 1059, 1042, 1031, 991, 969, 976, 978],
+					"all_points_y": [921, 912, 889, 857, 846, 850, 889, 903, 921]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1091, 1063, 1037, 1040, 1078, 1091, 1091],
+					"all_points_y": [893, 893, 852, 838, 840, 863, 893]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [15, 83, 91, 81, 87, 119, 147, 208, 291, 342, 434, 648, 880, 857, 697, 559, 11, 4, 4, 4, 23, 15],
+					"all_points_y": [1018, 1023, 982, 912, 810, 761, 716, 678, 661, 727, 710, 638, 400, 164, 47, 11, 2, 174, 646, 816, 848, 1018]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [321, 274, 268, 266, 240, 145, 104, 81, 117, 347, 746, 823, 344, 319, 321],
+					"all_points_y": [1008, 1016, 889, 780, 782, 818, 755, 531, 308, 128, 213, 540, 759, 816, 1008]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [215, 217, 257, 244, 215, 215],
+					"all_points_y": [1118, 1118, 1125, 434, 434, 1118]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1441, 1441, 1486, 1488, 1439, 1418, 1441],
+					"all_points_y": [1044, 1044, 1046, 869, 867, 969, 1044]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1378, 1378, 1327, 1327, 1352, 1384, 1414, 1412, 1378],
+					"all_points_y": [555, 555, 629, 761, 791, 797, 782, 680, 555]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [561, 514, 495, 521, 538, 551, 561],
+					"all_points_y": [1012, 1014, 895, 848, 852, 893, 1012]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [457, 470, 489, 512, 489, 468, 442, 457],
+					"all_points_y": [1010, 1020, 1023, 940, 874, 874, 935, 1010]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrain"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1333, 1333, 1352, 1358, 1348, 1329, 1314, 1333],
+					"all_points_y": [931, 931, 938, 884, 838, 838, 882, 931]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [716, 716, 736, 738, 721, 716],
+					"all_points_y": [965, 965, 965, 702, 704, 965]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1839, 1945, 1939, 1828, 1839],
+					"all_points_y": [682, 685, 997, 997, 682]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1242, 1225, 1222, 1237, 1242],
+					"all_points_y": [872, 872, 829, 829, 872]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217672_501_11.jpg748606": {
+		"fileref": "",
+		"size": 748606,
+		"filename": "162a_2019_110619_217672_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [283, 423, 593, 651, 659, 604, 395, 302, 274, 276, 280, 274, 283],
+					"all_points_y": [1239, 1230, 1222, 1178, 1076, 955, 974, 1074, 1120, 1141, 1160, 1199, 1239]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [935, 1046, 1046, 1025, 959, 935, 931, 935],
+					"all_points_y": [950, 946, 893, 859, 859, 882, 914, 950]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1101, 1044, 1029, 1044, 1093, 1105, 1101],
+					"all_points_y": [908, 908, 867, 842, 838, 872, 908]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1407, 1441, 1443, 1458, 1431, 1412, 1403, 1403, 1407],
+					"all_points_y": [944, 942, 893, 886, 829, 833, 865, 897, 944]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1367, 1399, 1414, 1403, 1380, 1365, 1361, 1367],
+					"all_points_y": [946, 944, 884, 846, 835, 850, 897, 946]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1884, 1943, 1943, 1977, 1979, 1998, 2015, 2003, 1969, 1956, 1920, 1875, 1862, 1881, 1881, 1847, 1850, 1877, 1890, 1884],
+					"all_points_y": [918, 912, 955, 984, 1029, 1093, 1161, 1218, 1218, 1242, 1246, 1212, 1169, 1148, 1042, 1046, 1006, 959, 952, 918]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [257, 298, 302, 330, 319, 302, 317, 281, 266, 266, 259, 247, 240, 257],
+					"all_points_y": [895, 891, 914, 940, 1001, 1010, 1082, 1091, 1076, 1048, 1008, 974, 944, 895]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [330, 361, 372, 383, 387, 387, 330, 323, 323, 319, 325, 330],
+					"all_points_y": [880, 880, 910, 918, 969, 1006, 1061, 1012, 961, 918, 906, 880]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2281, 2355, 2368, 2343, 2341, 2345, 2296, 2300, 2275, 2281],
+					"all_points_y": [536, 527, 561, 563, 621, 1052, 1057, 561, 559, 536]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [661, 697, 695, 661, 661],
+					"all_points_y": [989, 989, 648, 646, 989]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1252, 1218, 1216, 1261, 1252],
+					"all_points_y": [810, 810, 842, 850, 810]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1302, 1261, 1261, 1284, 1301, 1306, 1305, 1311, 1302],
+					"all_points_y": [820, 822, 770, 764, 771, 783, 798, 812, 820]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1211, 1231, 1238, 1236, 1229, 1223, 1209, 1211],
+					"all_points_y": [798, 797, 807, 812, 811, 821, 820, 798]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [38, 103, 99, 139, 213, 291, 393, 512, 427, 339, 75, 7, 7, 44, 38],
+					"all_points_y": [1054, 1066, 747, 703, 685, 679, 653, 557, 387, 385, 383, 381, 733, 758, 1054]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [711, 748, 758, 743, 734, 728, 751, 792, 840, 917, 964, 840, 713, 577, 530, 547, 653, 697, 711],
+					"all_points_y": [925, 931, 925, 913, 882, 828, 839, 846, 835, 806, 689, 493, 429, 468, 607, 727, 811, 822, 925]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [378, 320, 309, 251, 238, 123, 103, 122, 167, 479, 723, 578, 471, 397, 374, 378],
+					"all_points_y": [880, 874, 765, 709, 791, 796, 645, 492, 391, 383, 476, 703, 750, 762, 808, 880]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1416, 1372, 1370, 1376, 1369, 1372, 1453, 1460, 1465, 1451, 1416],
+					"all_points_y": [526, 588, 638, 709, 760, 762, 765, 721, 651, 585, 526]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1209, 1190, 1131, 1144, 1135, 1088, 1076, 930, 999, 1081, 1145, 1181, 1209],
+					"all_points_y": [641, 748, 753, 791, 808, 814, 719, 531, 448, 472, 514, 592, 641]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"18": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1876, 1841, 1834, 1844, 1850, 1848, 1852, 1848, 1872, 1868, 1876, 1875, 1893, 1891, 1876],
+					"all_points_y": [655, 656, 662, 676, 676, 690, 696, 940, 938, 696, 675, 670, 669, 656, 655]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"19": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2157, 2028, 2028, 2158, 2157],
+					"all_points_y": [643, 638, 1029, 1030, 643]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"20": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1179, 1244, 1276, 1308, 1308, 1336, 1335, 1312, 1322, 1300, 1244, 1209, 1192, 1178, 1147, 1179],
+					"all_points_y": [519, 517, 526, 556, 587, 646, 675, 703, 754, 764, 767, 740, 694, 636, 585, 519]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"21": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 103, 95, 96, 89, 159, 174, 187, 177],
+					"all_points_y": [951, 952, 923, 900, 866, 865, 889, 916, 951]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"22": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [6, 26, 67, 81, 187, 215, 203, 157, 3, 6],
+					"all_points_y": [930, 930, 947, 965, 984, 1018, 1037, 1045, 1023, 930]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"23": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [592, 543, 536, 541, 590, 592, 592],
+					"all_points_y": [941, 955, 925, 896, 906, 916, 941]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"24": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [612, 496, 482, 482, 509, 556, 607, 643, 700, 713, 677, 646, 612],
+					"all_points_y": [814, 814, 873, 900, 930, 935, 924, 918, 916, 872, 859, 833, 814]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"25": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1916, 1875, 1828, 1828, 2003, 2037, 2032, 1994, 1916],
+					"all_points_y": [850, 880, 880, 894, 896, 891, 857, 850, 850]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"26": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2270, 2192, 2191, 2276, 2270],
+					"all_points_y": [821, 826, 890, 893, 821]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"27": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1548, 1528, 1528, 1550, 1548],
+					"all_points_y": [764, 762, 940, 941, 764]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"28": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1696, 1784, 1786, 1704, 1712, 1687, 1696],
+					"all_points_y": [724, 721, 745, 748, 1035, 1047, 724]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"29": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1571, 1569, 1626, 1641, 1618, 1582, 1571, 1546, 1571, 1571],
+					"all_points_y": [1122, 1120, 1125, 965, 893, 895, 933, 1014, 1031, 1122]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"30": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1380, 1380, 1403, 1405, 1384, 1380],
+					"all_points_y": [780, 780, 776, 808, 810, 780]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"31": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1159, 1159, 1248, 1237, 1222, 1161, 1150, 1159],
+					"all_points_y": [938, 938, 938, 869, 855, 857, 882, 938]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217673_501_11.jpg763557": {
+		"fileref": "",
+		"size": 763557,
+		"filename": "162a_2019_110619_217673_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1845, 1826, 1813, 1809, 1775, 1767, 1771, 1803, 1826, 1867, 1881, 1905, 1911, 1881, 1845],
+					"all_points_y": [944, 942, 976, 1003, 1042, 1110, 1159, 1159, 1312, 1322, 1235, 1133, 1050, 952, 944]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2379, 2426, 2428, 2428, 2396, 2377, 2381, 2324, 2355, 2324, 2313, 2317, 2368, 2379],
+					"all_points_y": [969, 959, 969, 1514, 1494, 1467, 1414, 1329, 1178, 1176, 1146, 1080, 1037, 969]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1458, 1488, 1486, 1486, 1492, 1469, 1450, 1450, 1446, 1452, 1458],
+					"all_points_y": [948, 944, 906, 872, 850, 835, 829, 848, 880, 901, 948]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1414, 1448, 1450, 1456, 1443, 1437, 1418, 1414, 1405, 1403, 1414],
+					"all_points_y": [946, 946, 899, 848, 829, 814, 814, 833, 857, 893, 946]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [825, 963, 984, 991, 974, 942, 855, 833, 816, 823, 825],
+					"all_points_y": [991, 982, 961, 925, 891, 850, 855, 895, 899, 923, 991]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [995, 1071, 1084, 1080, 1061, 999, 984, 995],
+					"all_points_y": [906, 903, 901, 861, 816, 833, 882, 906]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1163, 1252, 1256, 1231, 1159, 1163, 1152, 1163],
+					"all_points_y": [908, 914, 872, 833, 831, 855, 884, 908]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1388, 1367, 1375, 1365, 1373, 1378, 1405, 1414, 1401, 1388],
+					"all_points_y": [814, 814, 827, 850, 874, 910, 906, 857, 825, 814]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [599, 548, 559, 591, 606, 599],
+					"all_points_y": [621, 627, 993, 1003, 989, 621]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2226, 2321, 2328, 2309, 2213, 2181, 2202, 2226],
+					"all_points_y": [925, 916, 867, 823, 823, 857, 882, 925]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2158, 2213, 2213, 2168, 2158],
+					"all_points_y": [848, 852, 778, 782, 848]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1588, 1616, 1616, 1588, 1588],
+					"all_points_y": [746, 746, 946, 942, 746]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1781, 1869, 1869, 1779, 1781],
+					"all_points_y": [680, 685, 933, 929, 680]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2324, 2428, 2430, 2313, 2324],
+					"all_points_y": [568, 565, 1093, 1088, 568]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [89, 155, 142, 230, 378, 510, 835, 621, 506, 121, 6, 6, 79, 89],
+					"all_points_y": [1037, 1035, 725, 704, 733, 716, 257, 51, 21, 26, 30, 691, 750, 1037]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [519, 553, 548, 599, 880, 619, 191, 213, 459, 495, 519],
+					"all_points_y": [938, 944, 710, 678, 308, 119, 355, 531, 708, 733, 938]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [638, 682, 676, 738, 825, 918, 955, 952, 874, 818, 738, 631, 466, 500, 548, 619, 638],
+					"all_points_y": [918, 914, 738, 753, 744, 653, 578, 512, 372, 334, 340, 321, 485, 572, 646, 740, 918]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2190, 2171, 2166, 2168, 2177, 2202, 2219, 2215, 2190],
+					"all_points_y": [738, 750, 765, 776, 784, 789, 776, 753, 738]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217674_501_11.jpg762390": {
+		"fileref": "",
+		"size": 762390,
+		"filename": "162a_2019_110619_217674_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [476, 476, 727, 731, 748, 759, 776, 778, 725, 555, 497, 468, 474, 457, 461, 476],
+					"all_points_y": [1188, 1188, 1169, 1146, 1135, 1144, 1144, 1031, 938, 946, 1018, 1010, 1057, 1091, 1165, 1188]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [906, 1010, 1027, 1010, 923, 910, 903, 906, 906],
+					"all_points_y": [976, 974, 952, 867, 865, 899, 903, 925, 976]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1161, 1161, 1248, 1250, 1235, 1171, 1159, 1148, 1161, 1161],
+					"all_points_y": [940, 940, 940, 901, 863, 861, 880, 893, 906, 940]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1452, 1503, 1499, 1490, 1465, 1454, 1443, 1448, 1452],
+					"all_points_y": [1012, 1006, 918, 855, 855, 878, 908, 938, 1012]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1543, 1499, 1492, 1492, 1514, 1524, 1539, 1548, 1541, 1543],
+					"all_points_y": [1006, 1006, 914, 878, 857, 857, 893, 921, 938, 1006]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2302, 2430, 2426, 2336, 2336, 2281, 2283, 2302],
+					"all_points_y": [597, 606, 687, 682, 1339, 1339, 599, 597]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1665, 1707, 1703, 1658, 1665],
+					"all_points_y": [1003, 1010, 744, 742, 1003]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1892, 2011, 2009, 1890, 1892],
+					"all_points_y": [1006, 1001, 674, 676, 1006]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2375, 2423, 2423, 2370, 2375],
+					"all_points_y": [889, 889, 801, 799, 889]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2383, 2362, 2364, 2375, 2400, 2426, 2430, 2417, 2383],
+					"all_points_y": [746, 770, 789, 806, 801, 801, 776, 746, 746]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [383, 427, 423, 415, 385, 383],
+					"all_points_y": [1078, 1080, 555, 491, 491, 1078]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [117, 155, 166, 140, 142, 121, 117],
+					"all_points_y": [710, 716, 1057, 1061, 950, 948, 710]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1405, 1431, 1431, 1437, 1437, 1416, 1395, 1386, 1392, 1388, 1405],
+					"all_points_y": [948, 944, 918, 897, 865, 852, 842, 852, 872, 882, 948]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1369, 1390, 1390, 1386, 1365, 1361, 1361, 1369],
+					"all_points_y": [929, 927, 876, 844, 838, 865, 889, 929]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217682_501_11.jpg817827": {
+		"fileref": "",
+		"size": 817827,
+		"filename": "162a_2019_110619_217682_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [578, 578, 759, 795, 795, 744, 621, 589, 568, 557, 578, 553, 578],
+					"all_points_y": [1105, 1105, 1097, 1074, 991, 916, 929, 974, 974, 1003, 1006, 1046, 1105]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [821, 929, 957, 948, 923, 848, 814, 821],
+					"all_points_y": [1003, 995, 976, 931, 878, 876, 946, 1003]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1135, 1222, 1229, 1210, 1142, 1129, 1135],
+					"all_points_y": [944, 946, 903, 872, 869, 893, 944]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1025, 1016, 950, 929, 950, 1003, 1027, 1025],
+					"all_points_y": [929, 938, 938, 912, 872, 867, 899, 929]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [100, 130, 96, 179, 172, 62, 100],
+					"all_points_y": [1120, 1122, 225, 202, 136, 174, 1120]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1144, 1118, 1118, 1146, 1144],
+					"all_points_y": [838, 831, 903, 906, 838]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [906, 946, 952, 929, 935, 916, 910, 906],
+					"all_points_y": [646, 638, 663, 668, 880, 869, 665, 646]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1703, 1745, 1728, 1773, 1784, 1722, 1652, 1692, 1703],
+					"all_points_y": [997, 995, 806, 799, 719, 376, 706, 812, 997]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1643, 1677, 1675, 1722, 1703, 1673, 1622, 1609, 1633, 1631, 1643],
+					"all_points_y": [984, 989, 799, 780, 132, 77, 155, 791, 818, 823, 984]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1847, 1939, 1960, 1920, 1888, 1762, 1720, 1739, 1696, 1720, 1796, 1796, 1871, 1847],
+					"all_points_y": [738, 685, 425, 72, 4, 9, 234, 249, 344, 697, 733, 1014, 989, 738]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [793, 863, 865, 827, 829, 793, 804, 793],
+					"all_points_y": [604, 593, 621, 642, 944, 940, 595, 604]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [334, 444, 444, 389, 270, 230, 236, 334],
+					"all_points_y": [1020, 1018, 940, 863, 876, 942, 1010, 1020]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [865, 929, 927, 891, 865],
+					"all_points_y": [729, 727, 808, 801, 729]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1050, 1080, 1074, 1080, 1054, 1029, 1048, 1050],
+					"all_points_y": [950, 948, 916, 886, 865, 893, 918, 950]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1554, 1522, 1526, 1543, 1541, 1588, 1582, 1616, 1607, 1554],
+					"all_points_y": [421, 502, 772, 782, 942, 948, 780, 748, 474, 421]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1297, 1297, 1244, 1229, 1239, 1284, 1305, 1305, 1297],
+					"all_points_y": [850, 850, 844, 816, 765, 763, 767, 823, 850]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1184, 1186, 1225, 1225, 1180, 1180, 1184],
+					"all_points_y": [825, 825, 829, 872, 869, 848, 825]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1040, 1040, 1101, 1114, 1091, 1048, 1040, 1040],
+					"all_points_y": [821, 821, 823, 876, 884, 882, 844, 821]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217685_501_11.jpg786275": {
+		"fileref": "",
+		"size": 786275,
+		"filename": "162a_2019_110619_217685_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [504, 504, 470, 474, 697, 742, 702, 504],
+					"all_points_y": [914, 914, 993, 1099, 1086, 1052, 901, 914]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1781, 1707, 1733, 1762, 1752, 1801, 1811, 1833, 1852, 1852, 1781],
+					"all_points_y": [147, 310, 714, 731, 991, 991, 736, 655, 338, 236, 147]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2096, 2143, 2166, 2262, 2292, 2245, 2060, 1981, 1977, 2045, 2090, 2062, 2096],
+					"all_points_y": [1127, 1129, 542, 355, 53, 0, 4, 38, 361, 529, 563, 1122, 1127]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1947, 2005, 2026, 2092, 2041, 1884, 1862, 1888, 1871, 1888, 1966, 1947],
+					"all_points_y": [1082, 1065, 525, 521, 6, 4, 138, 276, 332, 451, 521, 1082]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [170, 270, 278, 198, 208, 159, 170],
+					"all_points_y": [206, 170, 219, 251, 1044, 1046, 206]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [827, 827, 869, 874, 850, 855, 838, 827],
+					"all_points_y": [568, 568, 559, 580, 589, 835, 838, 568]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1159, 1159, 1233, 1242, 1225, 1176, 1142, 1159],
+					"all_points_y": [912, 912, 914, 867, 835, 833, 865, 912]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1454, 1546, 1548, 1503, 1505, 1454, 1454],
+					"all_points_y": [812, 810, 865, 865, 889, 889, 812]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1318, 1320, 1276, 1276, 1252, 1248, 1307, 1316, 1318],
+					"all_points_y": [806, 808, 812, 784, 784, 721, 716, 753, 806]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1084, 1084, 1116, 1116, 1110, 1093, 1084, 1084],
+					"all_points_y": [901, 901, 899, 831, 804, 808, 838, 901]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [869, 869, 965, 957, 980, 972, 872, 857, 869],
+					"all_points_y": [940, 940, 927, 895, 867, 823, 825, 872, 940]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1008, 969, 957, 974, 993, 1010, 1008],
+					"all_points_y": [918, 931, 901, 863, 861, 886, 918]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1409, 1409, 1467, 1473, 1450, 1452, 1412, 1409],
+					"all_points_y": [782, 782, 776, 806, 810, 857, 861, 782]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [648, 648, 702, 706, 670, 665, 644, 648],
+					"all_points_y": [466, 466, 461, 491, 502, 906, 910, 466]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217686_501_11.jpg778481": {
+		"fileref": "",
+		"size": 778481,
+		"filename": "162a_2019_110619_217686_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [723, 723, 857, 880, 882, 867, 725, 710, 723],
+					"all_points_y": [1006, 1006, 993, 980, 935, 835, 842, 918, 1006]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1063, 1099, 1093, 1061, 1044, 1050, 1063],
+					"all_points_y": [921, 921, 816, 814, 855, 923, 921]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [536, 525, 610, 617, 574, 572, 536],
+					"all_points_y": [989, 434, 412, 476, 478, 986, 989]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [772, 831, 835, 797, 816, 778, 772],
+					"all_points_y": [538, 531, 574, 580, 835, 840, 538]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1881, 1926, 1945, 2013, 1992, 1932, 1892, 1824, 1828, 1877, 1881, 1881],
+					"all_points_y": [1040, 1033, 678, 595, 81, 4, 4, 123, 646, 716, 1027, 1040]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [266, 389, 425, 421, 344, 289, 132, 134, 266],
+					"all_points_y": [1001, 1001, 991, 931, 910, 872, 880, 927, 1001]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [712, 787, 804, 731, 712],
+					"all_points_y": [668, 661, 774, 772, 668]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2222, 2270, 2302, 2430, 2423, 2109, 2013, 2026, 2088, 2137, 2134, 2228, 2222],
+					"all_points_y": [1165, 1169, 432, 359, 13, 13, 60, 179, 208, 355, 381, 434, 1165]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1144, 1144, 1233, 1231, 1220, 1159, 1135, 1144],
+					"all_points_y": [929, 929, 927, 878, 844, 838, 865, 929]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1569, 1567, 1467, 1471, 1543, 1543, 1569, 1569],
+					"all_points_y": [818, 816, 816, 899, 899, 880, 891, 818]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1416, 1416, 1505, 1499, 1467, 1469, 1416, 1416],
+					"all_points_y": [784, 784, 782, 818, 821, 880, 880, 784]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1337, 1337, 1392, 1390, 1318, 1337],
+					"all_points_y": [825, 825, 821, 765, 772, 825]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [997, 997, 1069, 1057, 1052, 1057, 984, 978, 997],
+					"all_points_y": [799, 799, 799, 825, 848, 878, 880, 846, 799]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217688_501_11.jpg768125": {
+		"fileref": "",
+		"size": 768125,
+		"filename": "162a_2019_110619_217688_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1014, 1061, 1052, 1057, 1027, 1010, 1001, 1014],
+					"all_points_y": [944, 942, 863, 844, 799, 804, 846, 944]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [793, 921, 959, 942, 814, 776, 804, 793],
+					"all_points_y": [952, 948, 921, 806, 806, 897, 955, 952]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [11, 89, 111, 168, 196, 206, 155, 6, 11],
+					"all_points_y": [1348, 1299, 1352, 1346, 1248, 1199, 897, 897, 1348]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [217, 225, 278, 268, 330, 323, 217],
+					"all_points_y": [264, 1048, 1054, 321, 304, 232, 264]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [689, 710, 695, 733, 721, 661, 689],
+					"all_points_y": [872, 869, 508, 506, 463, 478, 872]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [578, 685, 689, 625, 578],
+					"all_points_y": [631, 627, 746, 750, 631]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1129, 1252, 1244, 1205, 1133, 1122, 1129],
+					"all_points_y": [921, 918, 857, 804, 814, 865, 921]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2266, 2230, 2253, 2381, 2409, 2430, 2430, 2266],
+					"all_points_y": [797, 882, 957, 955, 901, 893, 793, 797]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1348, 1420, 1409, 1337, 1348],
+					"all_points_y": [821, 818, 742, 740, 821]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1239, 1280, 1271, 1252, 1212, 1214, 1242, 1239],
+					"all_points_y": [835, 840, 795, 770, 774, 793, 801, 835]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1267, 1329, 1337, 1339, 1352, 1324, 1280, 1248, 1267],
+					"all_points_y": [695, 708, 723, 738, 804, 821, 808, 759, 695]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1550, 1550, 1679, 1679, 1552, 1550],
+					"all_points_y": [816, 816, 810, 925, 929, 816]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1454, 1452, 1567, 1573, 1550, 1556, 1465, 1454],
+					"all_points_y": [774, 774, 770, 810, 816, 884, 886, 774]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [925, 927, 1057, 1063, 935, 925],
+					"all_points_y": [661, 659, 655, 746, 753, 661]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217689_501_11.jpg737704": {
+		"fileref": "",
+		"size": 737704,
+		"filename": "162a_2019_110619_217689_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [933, 908, 925, 995, 997, 980, 933],
+					"all_points_y": [782, 872, 931, 946, 874, 784, 782]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [612, 787, 829, 801, 655, 604, 612],
+					"all_points_y": [1001, 1001, 961, 808, 808, 889, 1001]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1133, 1237, 1242, 1210, 1148, 1129, 1133],
+					"all_points_y": [893, 897, 829, 795, 793, 829, 893]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [657, 659, 623, 631, 602, 589, 657],
+					"all_points_y": [404, 438, 451, 855, 850, 419, 404]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1250, 1250, 1288, 1284, 1267, 1239, 1220, 1242, 1250],
+					"all_points_y": [818, 818, 808, 772, 748, 750, 770, 770, 818]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1490, 1492, 1616, 1611, 1488, 1490],
+					"all_points_y": [750, 748, 748, 872, 872, 750]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1779, 1779, 1611, 1609, 1645, 1775, 1784, 1779],
+					"all_points_y": [793, 793, 795, 916, 925, 925, 899, 793]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1350, 1350, 1416, 1422, 1412, 1352, 1341, 1350],
+					"all_points_y": [795, 795, 793, 759, 729, 733, 746, 795]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217692_501_11.jpg717123": {
+		"fileref": "",
+		"size": 717123,
+		"filename": "162a_2019_110619_217692_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [444, 474, 493, 504, 525, 506, 470, 455, 434, 434, 444],
+					"all_points_y": [997, 993, 965, 893, 869, 816, 774, 810, 825, 903, 997]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [172, 149, 253, 264, 206, 225, 172],
+					"all_points_y": [893, 179, 153, 213, 217, 903, 893]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1222, 1254, 1252, 1239, 1246, 1229, 1222],
+					"all_points_y": [514, 508, 536, 536, 727, 727, 514]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1346, 1376, 1414, 1346],
+					"all_points_y": [740, 693, 744, 740]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1352, 1382, 1420, 1352],
+					"all_points_y": [857, 810, 861, 857]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2092, 2092, 2428, 2428, 2083, 2092],
+					"all_points_y": [791, 791, 787, 1054, 1069, 791]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1675, 1675, 1864, 1858, 1813, 1792, 1798, 1675, 1675],
+					"all_points_y": [712, 712, 710, 886, 878, 874, 923, 927, 712]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1533, 1533, 1577, 1675, 1665, 1626, 1546, 1518, 1533],
+					"all_points_y": [835, 835, 842, 833, 763, 757, 767, 801, 835]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1471, 1471, 1388, 1382, 1390, 1475, 1482, 1471],
+					"all_points_y": [797, 797, 804, 759, 719, 712, 748, 797]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1146, 1146, 1259, 1269, 1237, 1161, 1131, 1146],
+					"all_points_y": [893, 893, 886, 827, 789, 784, 821, 893]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [814, 814, 1003, 991, 816, 814],
+					"all_points_y": [716, 716, 719, 570, 576, 716]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217693_501_11.jpg712880": {
+		"fileref": "",
+		"size": 712880,
+		"filename": "162a_2019_110619_217693_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [349, 349, 419, 408, 436, 425, 387, 361, 321, 332, 327, 325, 349],
+					"all_points_y": [1040, 1040, 1016, 912, 910, 867, 791, 793, 850, 908, 959, 1027, 1040]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2209, 2370, 2364, 2213, 2209],
+					"all_points_y": [999, 1016, 1150, 1110, 999]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1560, 1788, 1786, 1690, 1567, 1548, 1560],
+					"all_points_y": [886, 889, 818, 801, 810, 865, 886]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1154, 1278, 1284, 1239, 1156, 1125, 1165, 1154],
+					"all_points_y": [918, 923, 867, 808, 804, 857, 925, 918]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1369, 1369, 1439, 1401, 1369],
+					"all_points_y": [912, 912, 918, 855, 912]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1367, 1433, 1392, 1367],
+					"all_points_y": [782, 784, 725, 782]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1380, 1433, 1469, 1458, 1416, 1407, 1361, 1380],
+					"all_points_y": [687, 691, 738, 750, 759, 810, 818, 687]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1418, 1412, 1505, 1484, 1401, 1382, 1418],
+					"all_points_y": [852, 852, 852, 753, 748, 795, 852]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1316, 1307, 1288, 1201, 1169, 1239, 1259, 1329, 1316],
+					"all_points_y": [865, 821, 780, 787, 840, 844, 884, 865, 865]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2034, 2024, 1794, 1801, 1811, 2026, 2037, 2034],
+					"all_points_y": [1001, 1006, 1006, 750, 740, 744, 761, 1001]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1556, 1560, 1614, 1614, 1569, 1556],
+					"all_points_y": [725, 725, 725, 795, 808, 725]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [774, 774, 969, 969, 772, 774],
+					"all_points_y": [738, 738, 740, 591, 589, 738]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1218, 1250, 1252, 1235, 1229, 1225, 1218],
+					"all_points_y": [544, 540, 555, 563, 780, 780, 544]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217698_501_11.jpg695718": {
+		"fileref": "",
+		"size": 695718,
+		"filename": "162a_2019_110619_217698_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [170, 614, 614, 179, 170],
+					"all_points_y": [778, 774, 451, 451, 778]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1269, 1416, 1435, 1431, 1407, 1295, 1267, 1269],
+					"all_points_y": [1014, 1018, 989, 942, 886, 876, 916, 1014]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2190, 2102, 2085, 2013, 1964, 1981, 2026, 2298, 2409, 2430, 2428, 2190],
+					"all_points_y": [1135, 1139, 1129, 1122, 1093, 997, 955, 931, 976, 984, 1118, 1135]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1603, 1750, 1665, 1603],
+					"all_points_y": [1218, 1220, 1105, 1218]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1590, 1658, 1726, 1705, 1711, 1614, 1616, 1590],
+					"all_points_y": [869, 746, 867, 872, 921, 925, 874, 869]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1850, 1858, 1890, 2083, 2188, 1996, 1920, 1901, 1850],
+					"all_points_y": [1016, 946, 903, 886, 933, 961, 982, 1031, 1016]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1250, 1271, 1280, 1248, 1250],
+					"all_points_y": [810, 801, 865, 876, 810]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1207, 1239, 1229, 1250, 1250, 1197, 1207],
+					"all_points_y": [865, 863, 565, 563, 527, 540, 865]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1344, 1418, 1416, 1405, 1365, 1371, 1337, 1344],
+					"all_points_y": [821, 816, 840, 863, 859, 876, 874, 821]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1499, 1554, 1592, 1580, 1541, 1524, 1511, 1484, 1499],
+					"all_points_y": [755, 748, 789, 823, 825, 874, 814, 818, 755]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [770, 804, 793, 757, 770],
+					"all_points_y": [950, 946, 506, 531, 950]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217701_501_11.jpg726446": {
+		"fileref": "",
+		"size": 726446,
+		"filename": "162a_2019_110619_217701_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1465, 1718, 1728, 1760, 1756, 1507, 1467, 1463, 1475, 1465],
+					"all_points_y": [865, 838, 867, 1093, 1137, 1169, 1099, 855, 863, 865]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1180, 1354, 1361, 1361, 1316, 1193, 1169, 1180],
+					"all_points_y": [1042, 1044, 965, 925, 891, 886, 944, 1042]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [955, 1099, 1122, 1108, 1054, 969, 946, 955],
+					"all_points_y": [1025, 1012, 986, 918, 869, 880, 933, 1025]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1382, 1467, 1486, 1471, 1395, 1358, 1382],
+					"all_points_y": [755, 763, 816, 889, 895, 818, 755]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1388, 1363, 1290, 1280, 1314, 1331, 1388],
+					"all_points_y": [914, 835, 838, 865, 869, 912, 914]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1110, 1190, 1214, 1207, 1110, 1095, 1110],
+					"all_points_y": [850, 844, 891, 925, 933, 886, 850]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1012, 1040, 1052, 1046, 999, 1001, 1012],
+					"all_points_y": [829, 831, 857, 889, 893, 850, 829]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [952, 952, 1012, 1014, 982, 1001, 963, 952],
+					"all_points_y": [495, 495, 487, 527, 523, 899, 901, 495]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [45, 74, 162, 91, 45],
+					"all_points_y": [43, 1173, 1167, 17, 43]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [755, 787, 806, 774, 755],
+					"all_points_y": [438, 436, 946, 948, 438]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1386, 1435, 1437, 1412, 1424, 1392, 1397, 1375, 1386],
+					"all_points_y": [642, 640, 665, 661, 757, 759, 665, 657, 642]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217703_501_11.jpg720022": {
+		"fileref": "",
+		"size": 720022,
+		"filename": "162a_2019_110619_217703_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [763, 763, 969, 999, 986, 931, 787, 772, 744, 761, 748, 763],
+					"all_points_y": [1076, 1076, 1063, 1016, 946, 882, 889, 935, 957, 969, 1018, 1076]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1154, 1329, 1329, 1341, 1320, 1301, 1293, 1182, 1169, 1152, 1148, 1148, 1161, 1154],
+					"all_points_y": [1014, 1010, 933, 910, 886, 886, 861, 855, 891, 891, 906, 906, 931, 1014]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1699, 2232, 2192, 2258, 2171, 2088, 1682, 1639, 1624, 1594, 1590, 1605, 1605, 1699],
+					"all_points_y": [1475, 1437, 1329, 1293, 874, 846, 863, 895, 942, 959, 1065, 1076, 1188, 1475]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [874, 884, 897, 903, 876, 874],
+					"all_points_y": [833, 816, 827, 893, 891, 833]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [921, 906, 886, 884, 899, 897, 931, 921],
+					"all_points_y": [825, 799, 801, 831, 833, 893, 889, 825]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [497, 612, 619, 555, 572, 527, 497],
+					"all_points_y": [174, 149, 230, 236, 974, 969, 174]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [835, 893, 899, 865, 876, 852, 835],
+					"all_points_y": [410, 391, 432, 444, 897, 893, 410]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1048, 1080, 1088, 1006, 999, 967, 978, 1048],
+					"all_points_y": [553, 553, 578, 608, 850, 840, 574, 553]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1367, 1301, 1273, 1293, 1352, 1367],
+					"all_points_y": [897, 897, 855, 804, 806, 897]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1441, 1380, 1369, 1460, 1475, 1441],
+					"all_points_y": [857, 861, 733, 738, 793, 857]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217707_501_11.jpg755247": {
+		"fileref": "",
+		"size": 755247,
+		"filename": "162a_2019_110619_217707_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [257, 259, 332, 332, 295, 257, 257],
+					"all_points_y": [1125, 1114, 1110, 933, 891, 889, 1125]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [385, 385, 395, 419, 429, 449, 442, 429, 387, 366, 385],
+					"all_points_y": [889, 889, 857, 857, 897, 914, 1003, 1067, 1071, 899, 889]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [408, 521, 521, 449, 466, 429, 408],
+					"all_points_y": [151, 134, 183, 208, 1006, 1003, 151]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [750, 789, 780, 916, 914, 748, 750],
+					"all_points_y": [914, 914, 568, 551, 510, 540, 914]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1125, 1125, 1282, 1305, 1293, 1263, 1146, 1108, 1125],
+					"all_points_y": [1035, 1035, 1035, 991, 927, 876, 872, 929, 1035]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1395, 1331, 1320, 1337, 1392, 1395],
+					"all_points_y": [923, 921, 869, 840, 842, 923]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1331, 1276, 1254, 1229, 1242, 1314, 1331],
+					"all_points_y": [940, 948, 889, 893, 846, 861, 940]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [986, 999, 1001, 993, 982, 986],
+					"all_points_y": [901, 893, 846, 833, 840, 901]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1035, 1035, 1057, 1052, 1027, 1035],
+					"all_points_y": [897, 897, 897, 852, 861, 897]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217711_501_11.jpg757598": {
+		"fileref": "",
+		"size": 757598,
+		"filename": "162a_2019_110619_217711_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1229, 1229, 1382, 1382, 1361, 1246, 1218, 1229],
+					"all_points_y": [1014, 1014, 1023, 942, 884, 882, 940, 1014]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [801, 823, 823, 804, 795, 789, 801],
+					"all_points_y": [916, 912, 842, 829, 838, 861, 916]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [770, 801, 793, 765, 757, 770],
+					"all_points_y": [916, 916, 835, 842, 869, 916]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 242, 227, 168, 181, 183],
+					"all_points_y": [1027, 1027, 249, 238, 897, 1027]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1146, 1193, 1233, 1239, 1207, 1207, 1178, 1178, 1146, 1146],
+					"all_points_y": [493, 504, 495, 525, 531, 882, 880, 538, 523, 493]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1139, 1133, 1165, 1156, 1188, 1190, 1218, 1207, 1171, 1139],
+					"all_points_y": [591, 619, 621, 886, 893, 629, 619, 589, 595, 591]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1120, 1148, 1188, 1188, 1165, 1163, 1139, 1142, 1118, 1120],
+					"all_points_y": [648, 655, 648, 678, 682, 876, 884, 691, 682, 648]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1084, 1101, 1099, 1125, 1122, 1139, 1131, 1110, 1088, 1084],
+					"all_points_y": [723, 725, 906, 906, 725, 723, 699, 704, 702, 723]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1003, 1003, 1052, 1061, 1044, 1008, 999, 1003],
+					"all_points_y": [916, 916, 914, 899, 876, 876, 899, 916]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [876, 895, 899, 886, 878, 872, 876],
+					"all_points_y": [916, 914, 872, 855, 855, 878, 916]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1003, 1003, 1027, 1027, 1027, 1037, 1037, 1059, 1050, 1027, 1006, 1003],
+					"all_points_y": [748, 748, 755, 755, 874, 872, 757, 744, 725, 731, 721, 748]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1656, 1580, 1605, 1605, 1711, 1713, 1750, 1656],
+					"all_points_y": [702, 833, 833, 895, 899, 835, 835, 702]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1539, 1505, 1520, 1520, 1560, 1563, 1575, 1539],
+					"all_points_y": [774, 829, 829, 855, 852, 829, 829, 774]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217715_501_11.jpg751971": {
+		"fileref": "",
+		"size": 751971,
+		"filename": "162a_2019_110619_217715_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [185, 185, 240, 259, 236, 181, 164, 185],
+					"all_points_y": [1031, 1031, 1033, 967, 874, 878, 931, 1031]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [289, 325, 336, 340, 313, 283, 272, 274, 289],
+					"all_points_y": [1018, 1014, 963, 901, 865, 865, 899, 946, 1018]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [563, 553, 565, 591, 595, 591, 563],
+					"all_points_y": [967, 916, 882, 878, 931, 969, 967]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [608, 640, 634, 612, 595, 608],
+					"all_points_y": [980, 978, 886, 886, 929, 980]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [702, 801, 806, 801, 776, 708, 687, 702],
+					"all_points_y": [986, 984, 974, 929, 891, 893, 933, 986]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1220, 1369, 1371, 1344, 1237, 1205, 1222, 1220],
+					"all_points_y": [1040, 1040, 972, 910, 897, 972, 1025, 1040]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [935, 991, 997, 1029, 1018, 1076, 1071, 997, 935, 935],
+					"all_points_y": [361, 372, 972, 984, 370, 349, 319, 336, 327, 361]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [906, 931, 963, 963, 942, 946, 931, 931, 910, 906],
+					"all_points_y": [695, 695, 691, 710, 712, 955, 957, 716, 712, 695]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [942, 974, 1014, 1014, 986, 997, 969, 967, 944, 942],
+					"all_points_y": [627, 634, 625, 659, 670, 963, 961, 657, 646, 627]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [721, 750, 765, 772, 755, 763, 744, 736, 719, 721],
+					"all_points_y": [755, 763, 750, 782, 784, 899, 901, 782, 778, 755]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [402, 576, 653, 682, 597, 572, 466, 570, 436, 321, 355, 402],
+					"all_points_y": [200, 425, 621, 729, 867, 914, 942, 693, 504, 427, 219, 200]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [225, 225, 298, 438, 582, 576, 476, 391, 230, 225],
+					"all_points_y": [419, 419, 378, 453, 691, 793, 916, 933, 759, 419]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217716_501_11.jpg713677": {
+		"fileref": "",
+		"size": 713677,
+		"filename": "162a_2019_110619_217716_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1190, 1190, 1352, 1346, 1310, 1203, 1178, 1190],
+					"all_points_y": [1048, 1048, 1050, 965, 906, 914, 980, 1048]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1709, 1781, 1773, 2396, 2430, 2428, 2245, 2211, 2083, 2045, 1864, 1862, 1754, 1747, 1696, 1703, 1662, 1662, 1692, 1709],
+					"all_points_y": [685, 653, 582, 434, 436, 1335, 1318, 1392, 1378, 1295, 1256, 1295, 1265, 1222, 1214, 1037, 1029, 850, 852, 685]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [468, 589, 631, 631, 602, 495, 472, 457, 463, 459, 468],
+					"all_points_y": [1035, 1040, 1014, 972, 906, 903, 944, 946, 972, 1027, 1035]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [421, 444, 457, 434, 417, 400, 404, 421],
+					"all_points_y": [1018, 1018, 942, 891, 893, 938, 972, 1018]
+				},
+				"region_attributes": {
+					"Custom": "Biker"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [19, 43, 55, 55, 36, 2, 0, 4, 19],
+					"all_points_y": [1061, 1061, 978, 918, 884, 895, 967, 974, 1061]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [833, 901, 986, 993, 933, 942, 908, 886, 814, 833],
+					"all_points_y": [225, 247, 232, 274, 289, 995, 995, 287, 272, 225]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [865, 912, 957, 969, 927, 935, 901, 897, 865, 865],
+					"all_points_y": [476, 489, 478, 514, 527, 980, 982, 536, 517, 476]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [833, 863, 895, 899, 882, 882, 859, 857, 831, 833],
+					"all_points_y": [687, 689, 676, 704, 716, 950, 955, 719, 706, 687]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1645, 1781, 1786, 1720, 1711, 1743, 1739, 1656, 1645],
+					"all_points_y": [599, 595, 644, 695, 852, 865, 876, 886, 599]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [217, 308, 364, 436, 527, 591, 589, 557, 463, 402, 383, 485, 470, 491, 419, 376, 323, 249, 164, 172, 217],
+					"all_points_y": [149, 159, 232, 287, 493, 676, 804, 897, 901, 935, 899, 738, 659, 608, 608, 536, 493, 406, 374, 289, 149]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [106, 72, 2, 6, 91, 149, 170, 240, 293, 372, 385, 468, 493, 406, 287, 147, 117, 106],
+					"all_points_y": [332, 378, 398, 878, 908, 903, 848, 886, 944, 916, 880, 755, 621, 555, 432, 351, 330, 332]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [648, 678, 693, 699, 682, 689, 672, 665, 646, 648],
+					"all_points_y": [757, 761, 755, 782, 784, 965, 963, 780, 776, 757]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [757, 761, 776, 772, 801, 791, 808, 810, 757],
+					"all_points_y": [727, 757, 753, 972, 972, 750, 746, 727, 727]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [974, 1020, 1044, 1052, 1048, 1033, 1035, 984, 974],
+					"all_points_y": [880, 857, 872, 903, 916, 918, 948, 950, 880]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1080, 1080, 1146, 1152, 1135, 1078, 1071, 1080],
+					"all_points_y": [965, 965, 969, 935, 906, 916, 948, 965]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217718_501_11.jpg767735": {
+		"fileref": "",
+		"size": 767735,
+		"filename": "162a_2019_110619_217718_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1078, 1231, 1229, 1199, 1101, 1071, 1078],
+					"all_points_y": [1059, 1059, 995, 933, 931, 976, 1059]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [946, 1010, 1008, 989, 940, 940, 946],
+					"all_points_y": [980, 978, 940, 918, 925, 952, 980]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2134, 2423, 2423, 2107, 2092, 2117, 2134],
+					"all_points_y": [925, 923, 266, 287, 310, 903, 925]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [680, 755, 814, 821, 763, 774, 746, 736, 697, 682, 680],
+					"all_points_y": [376, 391, 372, 417, 425, 1018, 1016, 412, 421, 410, 376]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [62, 104, 96, 55, 49, 62],
+					"all_points_y": [1048, 1050, 921, 916, 948, 1048]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [644, 695, 661, 623, 623, 644],
+					"all_points_y": [1133, 1137, 2, 2, 1127, 1133]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [525, 585, 587, 565, 534, 517, 525],
+					"all_points_y": [1001, 999, 974, 935, 944, 980, 1001]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [436, 459, 457, 440, 427, 436],
+					"all_points_y": [1008, 1008, 948, 938, 946, 1008]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [793, 838, 886, 886, 874, 831, 797, 797, 793],
+					"all_points_y": [959, 965, 961, 927, 867, 867, 889, 946, 959]
+				},
+				"region_attributes": {
+					"Custom": "Truck"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [527, 553, 574, 576, 561, 565, 548, 544, 525, 527],
+					"all_points_y": [746, 753, 740, 770, 772, 940, 938, 778, 774, 746]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1835, 1796, 1794, 1798, 1807, 1845, 1888, 1898, 1873, 1835],
+					"all_points_y": [368, 463, 546, 610, 778, 787, 534, 468, 372, 368]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1463, 1546, 1611, 1611, 1569, 1569, 1482, 1414, 1405, 1382, 1392, 1463],
+					"all_points_y": [542, 504, 544, 614, 708, 776, 831, 838, 793, 725, 653, 542]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2013, 1930, 1915, 1964, 1956, 1909, 1901, 1937, 1962, 2026, 2047, 2077, 2102, 2098, 2068, 2034, 2013],
+					"all_points_y": [366, 489, 538, 546, 559, 580, 642, 678, 716, 712, 755, 708, 646, 531, 472, 383, 366]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1641, 1603, 1603, 1607, 1614, 1584, 1730, 1788, 1794, 1826, 1845, 1801, 1745, 1675, 1641],
+					"all_points_y": [417, 476, 514, 572, 644, 784, 716, 742, 795, 789, 619, 534, 459, 419, 417]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [889, 889, 938, 935, 921, 889, 889],
+					"all_points_y": [965, 965, 963, 931, 923, 923, 965]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217729_501_11.jpg768606": {
+		"fileref": "",
+		"size": 768606,
+		"filename": "162a_2019_110619_217729_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 153, 236, 300, 300, 242, 217, 181, 200, 145, 155],
+					"all_points_y": [259, 261, 295, 276, 325, 342, 948, 946, 347, 327, 259]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [28, 30, 68, 111, 115, 85, 72, 34, 53, 30, 30, 28],
+					"all_points_y": [497, 495, 506, 495, 536, 538, 867, 869, 542, 525, 485, 497]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 142, 187, 236, 242, 204, 185, 155, 170, 136, 142],
+					"all_points_y": [410, 410, 436, 415, 466, 472, 880, 878, 470, 457, 410]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [757, 916, 912, 880, 767, 731, 733, 757],
+					"all_points_y": [1003, 1006, 935, 859, 855, 918, 982, 1003]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [291, 295, 325, 327, 291],
+					"all_points_y": [657, 727, 727, 648, 657]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [423, 519, 523, 506, 440, 423],
+					"all_points_y": [880, 891, 844, 814, 823, 880]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [291, 353, 376, 378, 361, 308, 283, 291],
+					"all_points_y": [861, 869, 859, 831, 799, 799, 827, 861]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [536, 606, 610, 602, 542, 536, 536],
+					"all_points_y": [878, 884, 844, 823, 810, 840, 878]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [619, 665, 693, 702, 687, 617, 608, 604, 619],
+					"all_points_y": [869, 874, 872, 848, 818, 818, 838, 863, 869]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [480, 544, 536, 508, 512, 472, 480],
+					"all_points_y": [702, 708, 780, 782, 799, 797, 702]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217730_501_11.jpg764783": {
+		"fileref": "",
+		"size": 764783,
+		"filename": "162a_2019_110619_217730_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [313, 313, 302, 336, 342, 313],
+					"all_points_y": [627, 627, 710, 710, 631, 627]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [34, 134, 213, 215, 134, 106, 68, 106, 32, 34],
+					"all_points_y": [140, 176, 166, 221, 225, 927, 925, 225, 200, 140]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [668, 708, 825, 840, 852, 821, 710, 682, 661, 668],
+					"all_points_y": [969, 995, 993, 991, 921, 852, 842, 872, 889, 969]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [408, 517, 519, 497, 429, 406, 408],
+					"all_points_y": [867, 878, 831, 795, 795, 816, 867]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [504, 578, 568, 540, 536, 502, 504],
+					"all_points_y": [672, 682, 765, 763, 791, 789, 672]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [11, 13, 40, 28, 55, 68, 113, 108, 57, 11],
+					"all_points_y": [436, 489, 491, 831, 835, 504, 489, 446, 449, 436]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [589, 661, 689, 691, 653, 595, 589],
+					"all_points_y": [865, 869, 859, 825, 799, 801, 865]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [295, 389, 391, 366, 317, 295, 295],
+					"all_points_y": [855, 855, 797, 780, 778, 806, 855]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 295, 300, 325, 323, 221, 162, 155],
+					"all_points_y": [833, 840, 816, 816, 774, 759, 787, 833]
+				},
+				"region_attributes": {
+					"Custom": "Van"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217739_501_11.jpg827631": {
+		"fileref": "",
+		"size": 827631,
+		"filename": "162a_2019_110619_217739_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [736, 731, 1167, 1171, 1159, 1195, 1103, 1084, 814, 789, 736, 723, 755, 721, 736],
+					"all_points_y": [1350, 1346, 1344, 1165, 1097, 1091, 1003, 978, 974, 1031, 1044, 1091, 1101, 1178, 1350]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [963, 901, 908, 972, 963],
+					"all_points_y": [538, 538, 395, 404, 538]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [223, 270, 281, 234, 223],
+					"all_points_y": [544, 546, 415, 406, 544]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [810, 965, 965, 991, 852, 835, 821, 799, 782, 787, 776, 810],
+					"all_points_y": [865, 865, 865, 925, 931, 995, 995, 1016, 989, 933, 897, 865]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1099, 1195, 1195, 1167, 1167, 1116, 1112, 1097, 1099],
+					"all_points_y": [693, 693, 755, 750, 791, 787, 736, 727, 693]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1439, 1609, 1632, 1619, 1607, 1528, 1524, 1462, 1451, 1409, 1439],
+					"all_points_y": [519, 527, 559, 601, 757, 750, 814, 810, 999, 991, 519]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1242, 1344, 1331, 1299, 1288, 1305, 1299, 1282, 1278, 1248, 1248, 1227, 1242, 1256, 1261, 1239, 1242],
+					"all_points_y": [170, 170, 230, 230, 521, 525, 634, 629, 801, 814, 636, 610, 519, 489, 232, 230, 170]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [508, 572, 576, 561, 512, 495, 508],
+					"all_points_y": [812, 812, 765, 746, 750, 772, 812]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [36, 36, 0, 2, 36],
+					"all_points_y": [685, 780, 784, 678, 685]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2336, 2423, 2430, 2349, 2336],
+					"all_points_y": [697, 704, 804, 810, 697]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2179, 2402, 2430, 2413, 2375, 2387, 2330, 2258, 2185, 2164, 2179],
+					"all_points_y": [149, 200, 247, 676, 680, 287, 225, 225, 232, 213, 149]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217740_501_11.jpg870545": {
+		"fileref": "",
+		"size": 870545,
+		"filename": "162a_2019_110619_217740_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [617, 617, 1216, 1227, 1216, 1233, 1171, 1095, 738, 697, 642, 623, 668, 604, 617],
+					"all_points_y": [1592, 1592, 1584, 1333, 1220, 1184, 1129, 1063, 1059, 1116, 1131, 1195, 1205, 1331, 1592]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [818, 1065, 1093, 1142, 1099, 759, 736, 744, 784, 818],
+					"all_points_y": [959, 957, 1020, 1033, 1067, 1071, 1033, 1018, 1018, 959]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [927, 978, 989, 933, 927],
+					"all_points_y": [504, 500, 368, 370, 504]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1352, 1301, 1327, 1301, 1293, 1327, 1324, 1369, 1367, 1386, 1395, 1373, 1401, 1352],
+					"all_points_y": [784, 827, 863, 872, 993, 986, 1084, 1084, 997, 993, 882, 865, 838, 784]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1533, 1499, 1543, 1558, 1643, 1641, 1745, 1745, 1741, 1539, 1533],
+					"all_points_y": [489, 1018, 1020, 814, 816, 727, 723, 661, 478, 476, 489]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [818, 974, 997, 1027, 1006, 1016, 821, 797, 776, 778, 750, 795, 818],
+					"all_points_y": [886, 882, 916, 942, 955, 986, 982, 1033, 995, 957, 933, 929, 886]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 208, 215, 149, 149],
+					"all_points_y": [376, 376, 508, 512, 376]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [372, 427],
+					"all_points_y": [767, 892]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1163, 1252, 1254, 1216, 1218, 1171, 1167, 1142, 1146, 1163],
+					"all_points_y": [680, 687, 746, 746, 789, 793, 736, 725, 682, 680]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1299, 1409, 1397, 1369, 1339, 1303, 1333, 1299, 1299],
+					"all_points_y": [104, 111, 166, 172, 784, 810, 159, 162, 104]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [521, 589],
+					"all_points_y": [740, 782]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [247, 294],
+					"all_points_y": [648, 712]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [391, 259, 272, 364, 378, 436, 434, 559, 568, 544, 391],
+					"all_points_y": [334, 576, 655, 661, 804, 797, 665, 670, 623, 521, 334]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1439, 1484, 1520, 1739, 1856, 2060, 2158, 2137, 1903, 1654, 1407, 1205, 1069, 1133, 1265, 1441, 1439],
+					"all_points_y": [897, 903, 585, 787, 757, 627, 534, 221, 0, 43, 21, 53, 244, 427, 523, 593, 897]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1046, 835, 821, 886, 1086, 1114, 1231, 1186, 1327, 1341, 1259, 1046],
+					"all_points_y": [96, 491, 678, 729, 685, 865, 852, 670, 648, 576, 444, 96]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217759_501_11.jpg903033": {
+		"fileref": "",
+		"size": 903033,
+		"filename": "162a_2019_110619_217759_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [993, 991, 1063, 1067, 1001, 993],
+					"all_points_y": [500, 497, 500, 332, 323, 500]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1314, 1314, 1358, 1365, 1401, 1397, 1305, 1314],
+					"all_points_y": [867, 867, 869, 816, 812, 742, 744, 867]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1507, 1550, 1550, 1465, 1469, 1499, 1507],
+					"all_points_y": [776, 780, 880, 884, 808, 808, 776]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1580, 1497, 1533, 1511, 1505, 1556, 1541, 1586, 1590, 1635, 1650, 1620, 1671, 1580],
+					"all_points_y": [874, 950, 989, 1008, 1169, 1176, 1331, 1331, 1190, 1182, 1010, 997, 959, 874]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1754, 1837, 1847, 1932, 1943, 2045, 2083, 2081, 1809, 1754],
+					"all_points_y": [1225, 1210, 923, 921, 823, 821, 793, 470, 461, 1225]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [49, 4, 4, 47, 49],
+					"all_points_y": [336, 332, 497, 491, 336]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [497, 691, 706, 680, 638, 514, 468, 476, 497],
+					"all_points_y": [1118, 1118, 1016, 952, 929, 925, 1008, 1101, 1118]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [733, 712, 651, 631, 676, 608, 621, 727, 791, 797, 1050, 1088, 1227, 1233, 1207, 1244, 1207, 1154, 1112, 787, 733],
+					"all_points_y": [1131, 1190, 1199, 1273, 1261, 1412, 1633, 1652, 1624, 1580, 1584, 1641, 1633, 1352, 1280, 1254, 1195, 1190, 1122, 1118, 1131]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [761, 740, 750, 827, 848, 893, 863, 761],
+					"all_points_y": [914, 976, 1037, 1044, 997, 999, 903, 914]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [761, 797, 793, 1078, 1067, 1010, 823, 770, 761],
+					"all_points_y": [1046, 1067, 1129, 1139, 1069, 980, 978, 1037, 1046]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [487, 281, 347, 393, 451, 485, 485, 636, 627, 487],
+					"all_points_y": [391, 659, 735, 778, 935, 929, 737, 771, 640, 391]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1218, 1222, 1246, 1246, 1237, 1218, 1207, 1218],
+					"all_points_y": [1037, 1035, 1025, 921, 901, 901, 948, 1037]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1161, 1212, 1212, 1203, 1193, 1165, 1161, 1161],
+					"all_points_y": [1031, 1037, 1003, 948, 912, 914, 952, 1031]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217760_501_11.jpg907292": {
+		"fileref": "",
+		"size": 907292,
+		"filename": "162a_2019_110619_217760_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [733, 697, 646, 629, 678, 631, 631, 746, 748, 1050, 1052, 1165, 1154, 1135, 1154, 1131, 1086, 1046, 733],
+					"all_points_y": [1086, 1150, 1150, 1216, 1214, 1284, 1509, 1522, 1477, 1467, 1511, 1514, 1297, 1227, 1184, 1131, 1139, 1084, 1086]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1616, 1669, 1594, 1692, 1790, 1716, 1779, 1754, 1703, 1696, 1654, 1669, 1603, 1616],
+					"all_points_y": [1042, 1037, 982, 889, 993, 1046, 1052, 1261, 1256, 1433, 1424, 1256, 1248, 1042]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1864, 1930, 1947, 2073, 2077, 2236, 2249, 1920, 1920, 1864],
+					"all_points_y": [1269, 1267, 935, 933, 814, 818, 434, 406, 406, 1269]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1363, 1452, 1452, 1414, 1401, 1356, 1361, 1363],
+					"all_points_y": [738, 738, 804, 804, 876, 874, 727, 738]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [714, 693, 699, 787, 812, 844, 827, 714],
+					"all_points_y": [899, 952, 1018, 1016, 965, 969, 903, 899]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1188, 1188, 1227, 1216, 1227, 1216, 1186, 1176, 1176, 1188],
+					"all_points_y": [1040, 1040, 1031, 999, 974, 908, 908, 938, 986, 1040]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1125, 1173, 1176, 1167, 1165, 1131, 1122, 1125],
+					"all_points_y": [1037, 1046, 1033, 955, 906, 903, 952, 1037]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [468, 646, 653, 665, 634, 619, 500, 470, 468, 468],
+					"all_points_y": [1088, 1080, 997, 972, 950, 927, 925, 984, 1014, 1088]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [986, 1057, 1067, 1001, 986],
+					"all_points_y": [440, 442, 264, 259, 440]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1524, 1645, 1639, 1586, 1541, 1505, 1569, 1522, 1524],
+					"all_points_y": [4, 2, 32, 51, 1112, 1108, 47, 43, 4]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [366, 408, 408, 368, 366],
+					"all_points_y": [978, 980, 921, 916, 978]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217763_501_11.jpg793296": {
+		"fileref": "",
+		"size": 793296,
+		"filename": "162a_2019_110619_217763_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [876, 876, 1133, 1169, 1205, 1220, 1195, 1227, 1214, 1118, 1118, 880, 850, 774, 778, 799, 772, 799, 838, 876],
+					"all_points_y": [993, 993, 1012, 1067, 1074, 1127, 1133, 1254, 1369, 1369, 1341, 1341, 1371, 1371, 1173, 1129, 1097, 1059, 1061, 993]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1626, 1607, 1658, 1654, 1752, 1758, 1796, 1833, 1994, 2024, 2134, 2183, 2247, 2211, 1867, 1752, 1626],
+					"all_points_y": [1046, 1146, 1150, 1173, 1184, 1159, 1180, 1165, 1176, 1220, 1220, 1186, 1176, 1012, 982, 1035, 1046]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2281, 2260, 2264, 2430, 2428, 2355, 2347, 2281],
+					"all_points_y": [287, 376, 472, 417, 140, 185, 257, 287]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2154, 2156, 2251, 2253, 2160, 2154],
+					"all_points_y": [542, 540, 538, 372, 355, 542]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [187, 187, 236, 238, 213, 202, 174, 187],
+					"all_points_y": [410, 410, 406, 436, 438, 770, 765, 410]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [470, 470, 529, 548, 538, 483, 453, 470],
+					"all_points_y": [789, 789, 801, 784, 714, 702, 736, 789]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [899, 899, 974, 986, 893, 889, 899],
+					"all_points_y": [814, 814, 825, 895, 895, 838, 814]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1363, 1363, 1388, 1392, 1399, 1380, 1350, 1341, 1363],
+					"all_points_y": [874, 874, 882, 923, 984, 1040, 1037, 948, 874]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1416, 1388, 1384, 1386, 1386, 1403, 1422, 1416, 1416],
+					"all_points_y": [878, 867, 906, 969, 1008, 1052, 1042, 974, 878]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1074, 940, 921, 903, 914, 914, 1082, 1095, 1091, 1074],
+					"all_points_y": [910, 895, 931, 931, 946, 1020, 1031, 974, 944, 910]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [716, 716, 842, 848, 821, 738, 712, 716],
+					"all_points_y": [952, 952, 950, 891, 842, 835, 874, 952]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [614, 855, 784, 704, 580, 470, 453, 517, 510, 355, 342, 534, 578, 563, 606, 614],
+					"all_points_y": [651, 674, 412, 236, 259, 370, 455, 470, 485, 514, 614, 614, 644, 918, 925, 651]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [455, 504, 508, 451, 455],
+					"all_points_y": [967, 969, 891, 882, 967]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217765_501_11.jpg754857": {
+		"fileref": "",
+		"size": 754857,
+		"filename": "162a_2019_110619_217765_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [542, 225, 215, 257, 417, 546, 521, 570, 582, 706, 776, 955, 944, 863, 808, 733, 702, 670, 659, 538, 542],
+					"all_points_y": [70, 444, 544, 561, 625, 617, 969, 980, 608, 610, 646, 670, 536, 323, 225, 119, 157, 132, 94, 55, 70]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [391, 387, 274, 259, 255, 274, 366, 404, 391],
+					"all_points_y": [674, 674, 672, 731, 793, 814, 814, 778, 674]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [302, 302, 264, 253, 276, 310, 338, 355, 349, 332, 302],
+					"all_points_y": [821, 821, 835, 878, 897, 906, 899, 876, 846, 821, 821]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1548, 1548, 1586, 1599, 1605, 1573, 1539, 1520, 1520, 1548],
+					"all_points_y": [916, 916, 910, 946, 1027, 1154, 1161, 1048, 976, 916]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1611, 1571, 1592, 1588, 1565, 1601, 1628, 1628, 1628, 1611],
+					"all_points_y": [889, 908, 946, 1027, 1142, 1148, 1046, 989, 942, 889]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [933, 1193, 1220, 1265, 1269, 1229, 1267, 1235, 848, 852, 878, 850, 857, 918, 933],
+					"all_points_y": [1008, 1023, 1080, 1084, 1112, 1133, 1201, 1369, 1348, 1186, 1114, 1101, 1067, 1061, 1008]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [935, 821, 827, 842, 921, 933, 935],
+					"all_points_y": [923, 923, 861, 816, 818, 855, 923]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [999, 967, 967, 1122, 1131, 1125, 1101, 999],
+					"all_points_y": [880, 931, 993, 1006, 942, 912, 880, 880]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [999, 1054, 1067, 1057, 989, 991, 999],
+					"all_points_y": [804, 806, 842, 872, 867, 838, 804]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217768_501_11.jpg874641": {
+		"fileref": "",
+		"size": 874641,
+		"filename": "162a_2019_110619_217768_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [349, 540, 699, 489, 317, 208, 113, 108, 111, 272, 302, 378, 349],
+					"all_points_y": [593, 493, 476, 15, 0, 13, 102, 276, 376, 436, 1086, 1074, 593]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [893, 893, 1220, 1227, 1222, 1242, 1212, 1163, 952, 929, 876, 876, 906, 884, 893],
+					"all_points_y": [1244, 1244, 1239, 1110, 1069, 1040, 1012, 969, 959, 1008, 1020, 1052, 1057, 1114, 1244]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1012, 1014, 1129, 1135, 1142, 1135, 1127, 1114, 1110, 1031, 1023, 1010, 999, 1023, 1003, 1012],
+					"all_points_y": [944, 942, 942, 889, 878, 869, 867, 859, 848, 846, 861, 863, 882, 878, 891, 944]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1046, 1105, 1108, 1105, 1063, 1042, 1046],
+					"all_points_y": [818, 821, 795, 774, 770, 780, 818]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [897, 982, 995, 989, 982, 918, 903, 897, 897],
+					"all_points_y": [878, 884, 857, 825, 801, 795, 825, 842, 878]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217774_501_11.jpg777729": {
+		"fileref": "",
+		"size": 777729,
+		"filename": "162a_2019_110619_217774_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [444, 444, 200, 236, 449, 274, 278, 502, 506, 578, 563, 778, 810, 780, 653, 495, 444],
+					"all_points_y": [89, 89, 242, 559, 589, 610, 672, 691, 1010, 1012, 665, 634, 525, 406, 230, 96, 89]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [725, 948, 738, 731, 691, 691, 429, 689, 725],
+					"all_points_y": [51, 610, 623, 950, 948, 623, 644, 66, 51]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [884, 991, 935, 882, 901, 861, 852, 782, 810, 884],
+					"all_points_y": [259, 553, 589, 597, 821, 825, 606, 604, 334, 259]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [795, 835, 838, 974, 784, 733, 791, 795],
+					"all_points_y": [903, 889, 638, 559, 230, 621, 651, 903]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [993, 993, 1237, 1254, 1263, 1239, 1218, 1188, 1029, 1018, 989, 986, 1006, 989, 993],
+					"all_points_y": [1137, 1137, 1142, 1003, 974, 948, 946, 908, 912, 948, 952, 984, 989, 1020, 1137]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [187, 187, 268, 270, 236, 119, 64, 60, 62, 187],
+					"all_points_y": [940, 940, 925, 863, 810, 806, 867, 912, 931, 940]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1163, 1163, 1231, 1237, 1229, 1159, 1150, 1163],
+					"all_points_y": [852, 852, 859, 812, 789, 782, 799, 852]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1035, 1037, 1114, 1116, 1103, 1050, 1035, 1035],
+					"all_points_y": [838, 838, 833, 808, 776, 772, 797, 838]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217776_501_11.jpg796628": {
+		"fileref": "",
+		"size": 796628,
+		"filename": "162a_2019_110619_217776_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [264, 342, 334, 668, 757, 606, 470, 21, 6, 19, 278, 264],
+					"all_points_y": [1097, 1097, 599, 582, 398, 106, 13, 13, 502, 570, 602, 1097]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [961, 961, 1199, 1203, 1220, 1199, 1167, 1156, 1006, 991, 963, 955, 976, 961, 961],
+					"all_points_y": [1120, 1120, 1120, 999, 963, 946, 942, 918, 914, 942, 955, 974, 982, 1016, 1120]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1692, 1692, 1722, 1722, 1728, 1728, 1682, 1682, 1692],
+					"all_points_y": [969, 969, 963, 901, 880, 840, 821, 855, 969]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1611, 1611, 1654, 1645, 1609, 1611],
+					"all_points_y": [778, 778, 778, 721, 721, 778]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1590, 1590, 1622, 1622, 1607, 1590, 1575, 1590],
+					"all_points_y": [933, 933, 935, 872, 823, 816, 865, 933]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1120, 1120, 1199, 1201, 1173, 1139, 1108, 1120],
+					"all_points_y": [882, 882, 882, 838, 806, 804, 840, 882]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1008, 1008, 1080, 1076, 1063, 1003, 999, 1008],
+					"all_points_y": [867, 863, 867, 835, 810, 804, 831, 867]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217777_501_11.jpg764334": {
+		"fileref": "",
+		"size": 764334,
+		"filename": "162a_2019_110619_217777_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [342, 342, 395, 378, 378, 634, 497, 253, 510, 508, 478, 308, 338, 264, 4, 64, 64, 6, 6, 49, 85, 55, 89, 153, 117, 193, 334, 342],
+					"all_points_y": [1067, 1067, 1069, 578, 548, 440, 330, 227, 223, 147, 121, 113, 15, 4, 13, 68, 91, 68, 393, 391, 438, 466, 487, 483, 519, 557, 551, 1067]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [959, 1190, 1195, 1203, 1186, 1163, 1146, 993, 980, 950, 957, 982, 963, 959],
+					"all_points_y": [1101, 1095, 965, 942, 923, 923, 901, 903, 927, 946, 980, 969, 997, 1101]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [989, 1071, 1074, 1048, 1006, 995, 989],
+					"all_points_y": [861, 867, 829, 787, 791, 814, 861]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1694, 1739, 1741, 1696, 1694],
+					"all_points_y": [704, 704, 770, 772, 704]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1792, 1803, 1856, 1852, 1852, 1830, 1833, 1830, 1805, 1792],
+					"all_points_y": [835, 816, 865, 880, 906, 908, 965, 978, 978, 835]
+				},
+				"region_attributes": {
+					"Custom": "Pedestrian"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1103, 1188, 1184, 1167, 1114, 1101, 1103],
+					"all_points_y": [863, 872, 831, 799, 808, 831, 863]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217787_501_11.jpg746466": {
+		"fileref": "",
+		"size": 746466,
+		"filename": "162a_2019_110619_217787_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1071, 1244, 1259, 1256, 1210, 1114, 1082, 1052, 1054, 1071],
+					"all_points_y": [1059, 1057, 1023, 931, 901, 886, 906, 935, 1012, 1059]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [476, 580, 625, 619, 587, 500, 478, 463, 476],
+					"all_points_y": [969, 974, 952, 906, 859, 869, 901, 938, 969]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1301, 1225, 1207, 1227, 1299, 1310, 1301],
+					"all_points_y": [929, 931, 889, 855, 848, 891, 929]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [531, 668, 670, 640, 621, 610, 561, 525, 531],
+					"all_points_y": [810, 810, 925, 948, 938, 893, 865, 880, 810]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1067, 1057, 1076, 1097, 1110, 1152, 1152, 1133, 1067],
+					"all_points_y": [850, 916, 929, 923, 901, 910, 872, 848, 850]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [244, 293, 285, 417, 459, 347, 304, 202, 130, 111, 13, 6, 89, 147, 196, 202, 253, 244],
+					"all_points_y": [727, 682, 636, 602, 521, 453, 370, 261, 313, 376, 474, 617, 642, 702, 729, 1054, 1050, 727]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1694, 1769, 1790, 1758, 1741, 1686, 1694],
+					"all_points_y": [206, 221, 993, 989, 266, 249, 206]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1008, 1037, 1037, 1012, 1008],
+					"all_points_y": [665, 663, 725, 729, 665]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1324, 1350, 1344, 1316, 1324],
+					"all_points_y": [733, 729, 663, 661, 733]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [910, 959, 955, 903, 910],
+					"all_points_y": [838, 840, 793, 791, 838]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [755, 708, 721, 736, 733, 772, 755],
+					"all_points_y": [678, 708, 884, 889, 712, 702, 678]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1469, 1543, 1543, 1465, 1469],
+					"all_points_y": [795, 791, 674, 674, 795]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217790_501_11.jpg771196": {
+		"fileref": "",
+		"size": 771196,
+		"filename": "162a_2019_110619_217790_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [242, 242, 391, 436, 440, 412, 285, 255, 238, 242],
+					"all_points_y": [997, 997, 1003, 984, 914, 882, 884, 925, 944, 997]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [429, 181, 247, 402, 457, 508, 565, 636, 672, 476, 461, 434, 446, 429],
+					"all_points_y": [593, 570, 398, 240, 204, 230, 306, 466, 563, 610, 995, 995, 606, 593]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1116, 1305, 1322, 1278, 1150, 1108, 1110, 1125, 1103, 1116],
+					"all_points_y": [1078, 1076, 952, 906, 903, 950, 967, 969, 993, 1078]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1531, 1573, 1569, 1529, 1531],
+					"all_points_y": [950, 950, 895, 893, 950]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1531, 1631, 1635, 1539, 1531],
+					"all_points_y": [627, 621, 772, 772, 627]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [906, 929, 929, 906, 906],
+					"all_points_y": [589, 582, 657, 653, 589]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1290, 1361, 1375, 1367, 1290, 1276, 1290],
+					"all_points_y": [857, 846, 908, 916, 921, 901, 857]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1154, 1214, 1237, 1231, 1142, 1139, 1154],
+					"all_points_y": [848, 844, 880, 912, 914, 869, 848]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1665, 1726, 1728, 1705, 1711, 1699, 1686, 1662, 1665],
+					"all_points_y": [400, 398, 425, 427, 929, 927, 427, 434, 400]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2090, 2200, 2243, 2209, 2185, 2151, 2126, 2083, 2090],
+					"all_points_y": [406, 412, 455, 485, 440, 444, 455, 449, 406]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [770, 799, 799, 812, 816, 753, 750, 770, 770],
+					"all_points_y": [776, 772, 780, 791, 833, 827, 793, 793, 776]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217793_501_11.jpg795404": {
+		"fileref": "",
+		"size": 795404,
+		"filename": "162a_2019_110619_217793_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1875, 1952, 1956, 1888, 1875],
+					"all_points_y": [582, 536, 625, 674, 582]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [87, 2, 2, 96, 87],
+					"all_points_y": [687, 678, 578, 604, 687]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [191, 162, 227, 191],
+					"all_points_y": [731, 799, 799, 731]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [53, 19, 13, 47, 53],
+					"all_points_y": [950, 948, 831, 835, 950]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [957, 993, 989, 950, 957],
+					"all_points_y": [829, 831, 912, 910, 829]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1254, 1301, 1305, 1261, 1254],
+					"all_points_y": [774, 765, 850, 850, 774]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1860, 1966, 1962, 1932, 1930, 1892, 1890, 1843, 1860],
+					"all_points_y": [138, 134, 181, 187, 538, 559, 193, 200, 138]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1873, 1815, 1875, 1869, 1813, 1841, 1943, 1935, 1896, 1909, 1926, 1873],
+					"all_points_y": [880, 938, 991, 1014, 1016, 1193, 1173, 1003, 993, 965, 942, 880]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1150, 1150, 1356, 1365, 1318, 1186, 1161, 1142, 1135, 1159, 1139, 1150],
+					"all_points_y": [1095, 1095, 1091, 963, 916, 916, 948, 948, 972, 984, 1006, 1095]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [353, 353, 249, 244, 285, 332, 353, 353],
+					"all_points_y": [846, 846, 850, 784, 742, 750, 778, 846]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [531, 531, 576, 576, 525, 531],
+					"all_points_y": [546, 546, 548, 412, 410, 546]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1380, 1380, 1418, 1412, 1365, 1380],
+					"all_points_y": [548, 548, 542, 415, 415, 548]
+				},
+				"region_attributes": {
+					"Custom": "Trafficlights"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1337, 1337, 1409, 1412, 1397, 1344, 1329, 1337],
+					"all_points_y": [923, 923, 918, 882, 857, 857, 872, 923]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1207, 1207, 1269, 1290, 1282, 1207, 1201, 1207],
+					"all_points_y": [850, 850, 857, 882, 918, 918, 876, 850]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [663, 663, 748, 778, 778, 757, 680, 657, 663],
+					"all_points_y": [935, 935, 940, 940, 895, 859, 859, 893, 935]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217797_501_11.jpg791615": {
+		"fileref": "",
+		"size": 791615,
+		"filename": "162a_2019_110619_217797_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1641, 1641, 1705, 1703, 1788, 1845, 1826, 1775, 1594, 1490, 1477, 1484, 1537, 1601, 1648, 1641],
+					"all_points_y": [916, 916, 903, 714, 736, 599, 436, 317, 210, 338, 451, 563, 657, 699, 719, 916]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1567, 1618, 1605, 1637, 1505, 1454, 1382, 1378, 1446, 1529, 1558, 1567],
+					"all_points_y": [840, 840, 759, 733, 544, 519, 593, 655, 746, 774, 780, 840]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [865, 801, 799, 806, 823, 821, 878, 876, 1016, 982, 863, 863, 865],
+					"all_points_y": [268, 408, 502, 604, 655, 774, 784, 659, 512, 366, 257, 278, 268]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1898, 1898, 2256, 2243, 1871, 1898],
+					"all_points_y": [697, 697, 689, 151, 170, 697]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1184, 1184, 1363, 1365, 1375, 1365, 1337, 1327, 1210, 1199, 1188, 1173, 1176, 1188, 1182, 1184],
+					"all_points_y": [1054, 1054, 1061, 961, 948, 935, 935, 912, 910, 940, 931, 948, 965, 959, 1001, 1054]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [268, 270, 349, 340, 330, 351, 364, 334, 264, 255, 268, 283, 291, 264, 268],
+					"all_points_y": [1074, 1074, 1071, 950, 942, 901, 882, 831, 850, 882, 912, 929, 946, 950, 1074]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1065, 1065, 1065, 1027, 1016, 1061, 1105, 1148, 1159, 1142, 1082, 1080, 1065],
+					"all_points_y": [901, 901, 744, 744, 695, 665, 597, 646, 716, 738, 753, 912, 901]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1203, 1265, 1265, 1256, 1220, 1207, 1203],
+					"all_points_y": [882, 882, 850, 833, 829, 852, 882]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1310, 1369, 1358, 1344, 1318, 1310, 1310],
+					"all_points_y": [893, 895, 861, 844, 846, 867, 893]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217799_501_11.jpg841129": {
+		"fileref": "",
+		"size": 841129,
+		"filename": "162a_2019_110619_217799_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [984, 857, 857, 889, 927, 914, 965, 980, 1074, 1084, 1052, 984],
+					"all_points_y": [546, 663, 744, 770, 767, 948, 925, 770, 725, 670, 623, 546]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1139, 1091, 1093, 1122, 1120, 1154, 1150, 1195, 1222, 1218, 1139],
+					"all_points_y": [561, 676, 753, 787, 865, 863, 782, 784, 744, 670, 561]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [999, 999, 1071, 1069, 984, 999],
+					"all_points_y": [861, 861, 863, 721, 736, 861]
+				},
+				"region_attributes": {
+					"Custom": "Privatesign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [712, 712, 619, 599, 642, 670, 676, 725, 719, 804, 812, 812, 740, 712],
+					"all_points_y": [191, 191, 306, 561, 631, 676, 787, 789, 619, 672, 487, 308, 170, 191]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [451, 572, 585, 595, 553, 608, 514, 480, 512, 459, 398, 376, 323, 317, 451],
+					"all_points_y": [132, 240, 383, 523, 546, 608, 668, 710, 791, 831, 857, 672, 544, 208, 132]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1165, 1165, 1324, 1327, 1337, 1320, 1310, 1299, 1188, 1176, 1150, 1146, 1163, 1154, 1165],
+					"all_points_y": [1054, 1054, 1044, 959, 952, 933, 929, 906, 901, 927, 931, 950, 957, 989, 1054]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1201, 1201, 1256, 1248, 1239, 1199, 1190, 1201],
+					"all_points_y": [867, 867, 872, 840, 831, 829, 850, 867]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1320, 1320, 1348, 1358, 1329, 1318, 1320],
+					"all_points_y": [804, 804, 804, 827, 835, 825, 804]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1271, 1318, 1324, 1312, 1280, 1269, 1271],
+					"all_points_y": [874, 878, 857, 831, 829, 852, 874]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217810_501_11.jpg782271": {
+		"fileref": "",
+		"size": 782271,
+		"filename": "162a_2019_110619_217810_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [493, 493, 599, 595, 544, 548, 519, 525, 487, 493],
+					"all_points_y": [744, 744, 748, 827, 823, 1065, 1054, 829, 831, 744]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1422, 1452, 1456, 1488, 1492, 1518, 1509, 1401, 1422],
+					"all_points_y": [838, 835, 1037, 1037, 833, 831, 742, 757, 838]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1354, 1392, 1392, 1346, 1354],
+					"all_points_y": [795, 806, 855, 859, 795]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1826, 1901, 1860, 1979, 2058, 1843, 1641, 1614, 1599, 1809, 1833, 1826],
+					"all_points_y": [948, 918, 640, 591, 393, 6, 91, 378, 663, 668, 963, 948]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [268, 323, 332, 417, 461, 544, 474, 391, 389, 317, 166, 162, 261, 266, 268],
+					"all_points_y": [651, 648, 391, 385, 364, 359, 221, 142, 38, 13, 17, 293, 372, 640, 651]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [774, 940, 910, 861, 838, 759, 691, 678, 721, 704, 731, 757, 774],
+					"all_points_y": [21, 340, 512, 648, 733, 787, 731, 604, 366, 268, 119, 55, 21]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1137, 1137, 1278, 1286, 1293, 1276, 1267, 1248, 1150, 1144, 1127, 1120, 1137, 1127, 1137],
+					"all_points_y": [1010, 1010, 1012, 938, 921, 910, 908, 889, 882, 912, 914, 927, 940, 978, 1010]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217811_501_11.jpg792954": {
+		"fileref": "",
+		"size": 792954,
+		"filename": "162a_2019_110619_217811_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1125, 1286, 1290, 1299, 1271, 1248, 1142, 1137, 1116, 1129, 1125],
+					"all_points_y": [1018, 1016, 948, 925, 899, 882, 880, 908, 927, 944, 1018]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 264, 270, 206, 204, 176, 176, 115, 123],
+					"all_points_y": [704, 706, 823, 829, 1142, 1144, 821, 821, 704]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1492, 1620, 1628, 1577, 1573, 1554, 1556, 1503, 1492],
+					"all_points_y": [746, 731, 833, 835, 1114, 1112, 835, 842, 746]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [306, 304, 372, 366, 400, 455, 493, 544, 531, 453, 306, 255, 270, 327, 321, 315, 306],
+					"all_points_y": [636, 644, 646, 389, 432, 468, 398, 189, 159, 2, 68, 130, 366, 389, 636, 648, 636]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1350, 1380, 1375, 1339, 1350],
+					"all_points_y": [861, 861, 808, 812, 861]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217817_501_11.jpg784968": {
+		"fileref": "",
+		"size": 784968,
+		"filename": "162a_2019_110619_217817_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2151, 2270, 2190, 2311, 2375, 2379, 2396, 2124, 2017, 1945, 1871, 1811, 1935, 2102, 2151],
+					"all_points_y": [1146, 1142, 651, 687, 608, 476, 298, 19, 9, 45, 300, 472, 640, 670, 1146]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [727, 761, 765, 842, 865, 838, 774, 755, 712, 693, 693, 729, 727],
+					"all_points_y": [850, 848, 595, 599, 540, 408, 268, 242, 370, 491, 623, 597, 850]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1505, 1505, 1582, 1584, 1654, 1699, 1514, 1433, 1392, 1448, 1503, 1505],
+					"all_points_y": [955, 955, 957, 721, 659, 478, 136, 342, 604, 689, 757, 955]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1163, 1163, 1263, 1265, 1269, 1244, 1171, 1165, 1154, 1154, 1161, 1163],
+					"all_points_y": [986, 986, 984, 931, 916, 895, 893, 912, 918, 931, 929, 986]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [982, 982, 1033, 1033, 1012, 989, 982, 982],
+					"all_points_y": [927, 927, 927, 882, 878, 882, 901, 927]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1108, 1105, 1074, 1067, 1076, 1101, 1108],
+					"all_points_y": [918, 921, 918, 908, 893, 891, 918]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1290, 1288, 1324, 1324, 1284, 1290],
+					"all_points_y": [812, 814, 812, 878, 876, 812]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217822_501_11.jpg741101": {
+		"fileref": "",
+		"size": 741101,
+		"filename": "162a_2019_110619_217822_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [572, 483, 480, 538, 527, 578, 587, 685, 680, 572],
+					"all_points_y": [96, 308, 455, 512, 797, 799, 517, 491, 251, 96]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1395, 1422, 1426, 1554, 1397, 1256, 1239, 1278, 1363, 1382, 1395],
+					"all_points_y": [961, 959, 863, 595, 298, 585, 670, 708, 723, 793, 961]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [685, 685, 767, 784, 774, 770, 685, 657, 685],
+					"all_points_y": [974, 974, 974, 963, 912, 884, 886, 923, 974]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [806, 806, 869, 878, 863, 799, 793, 806],
+					"all_points_y": [876, 876, 876, 901, 948, 946, 908, 876]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1108, 1108, 1159, 1176, 1171, 1093, 1097, 1108],
+					"all_points_y": [886, 886, 884, 912, 950, 957, 912, 886]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1269, 1271, 1339, 1333, 1259, 1269],
+					"all_points_y": [748, 744, 748, 872, 863, 748]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217825_501_11.jpg771490": {
+		"fileref": "",
+		"size": 771490,
+		"filename": "162a_2019_110619_217825_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1371, 1543, 1548, 1382, 1371],
+					"all_points_y": [878, 886, 621, 619, 878]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [402, 457, 440, 557, 608, 568, 374, 330, 370, 385, 402],
+					"all_points_y": [821, 816, 487, 502, 374, 96, 91, 361, 474, 489, 821]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [291, 291, 364, 361, 395, 395, 368, 278, 202, 232, 293, 291],
+					"all_points_y": [810, 810, 812, 491, 419, 255, 102, 98, 344, 457, 474, 810]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [595, 634, 665, 729, 893, 895, 831, 784, 659, 536, 551, 614, 595],
+					"all_points_y": [846, 844, 676, 708, 672, 534, 261, 204, 193, 283, 523, 651, 846]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1116, 1118, 1180, 1190, 1184, 1118, 1112, 1116],
+					"all_points_y": [882, 884, 878, 908, 938, 933, 914, 882]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217829_501_11.jpg761612": {
+		"fileref": "",
+		"size": 761612,
+		"filename": "162a_2019_110619_217829_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1152, 1163, 1235, 1244, 1233, 1163, 1152],
+					"all_points_y": [861, 914, 914, 882, 855, 852, 861]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [236, 313, 315, 415, 489, 404, 349, 272, 259, 213, 193, 255, 236],
+					"all_points_y": [840, 842, 529, 542, 472, 34, 0, 11, 79, 204, 410, 510, 840]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [640, 682, 697, 780, 801, 806, 699, 587, 597, 638, 640],
+					"all_points_y": [878, 872, 719, 631, 483, 319, 136, 463, 642, 695, 878]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [835, 891, 891, 831, 835],
+					"all_points_y": [774, 772, 838, 835, 774]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217830_501_11.jpg743726": {
+		"fileref": "",
+		"size": 743726,
+		"filename": "162a_2019_110619_217830_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1548, 1405, 1369, 1363, 1388, 1426, 1505, 1507, 1563, 1558, 1631, 1675, 1662, 1548],
+					"all_points_y": [223, 402, 619, 710, 861, 863, 825, 925, 918, 793, 691, 423, 338, 223]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [440, 485, 497, 519, 580, 636, 693, 708, 710, 595, 472, 395, 370, 364, 395, 451, 440],
+					"all_points_y": [859, 859, 617, 687, 704, 655, 508, 240, 147, 0, 77, 213, 438, 568, 636, 629, 859]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [759, 810, 846, 850, 782, 725, 704, 648, 668, 621, 642, 680, 699, 685, 665, 733, 759],
+					"all_points_y": [6, 123, 313, 580, 657, 699, 865, 865, 685, 665, 553, 429, 266, 164, 121, 2, 6]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1165, 1165, 1218, 1225, 1161, 1165],
+					"all_points_y": [852, 852, 848, 901, 895, 852]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217837_501_11.jpg787729": {
+		"fileref": "",
+		"size": 787729,
+		"filename": "162a_2019_110619_217837_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [774, 838, 844, 829, 793, 738, 733, 702, 693, 621, 634, 621, 665, 716, 774],
+					"all_points_y": [104, 249, 385, 559, 640, 738, 840, 833, 653, 606, 466, 340, 151, 94, 104]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 151, 200, 221, 268, 391, 429, 349, 293, 215, 153, 68, 168, 151],
+					"all_points_y": [918, 918, 925, 576, 661, 606, 510, 134, 100, 89, 108, 602, 555, 918]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1654, 1618, 1603, 1601, 1622, 1652, 1686, 1718, 1733, 1720, 1703, 1654],
+					"all_points_y": [753, 770, 791, 835, 878, 895, 893, 869, 827, 784, 770, 753]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1244, 1244, 1267, 1293, 1303, 1307, 1299, 1282, 1248, 1244],
+					"all_points_y": [844, 844, 827, 831, 835, 855, 865, 865, 861, 844]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1046, 1046, 1093, 1103, 1044, 1046],
+					"all_points_y": [842, 842, 842, 878, 878, 842]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217838_501_11.jpg778257": {
+		"fileref": "",
+		"size": 778257,
+		"filename": "162a_2019_110619_217838_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [529, 576, 574, 642, 670, 693, 674, 612, 570, 514, 461, 434, 432, 461, 519, 529, 529],
+					"all_points_y": [867, 880, 655, 674, 587, 504, 355, 210, 94, 94, 232, 353, 476, 595, 627, 659, 867]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [859, 903, 946, 942, 918, 884, 831, 829, 799, 810, 780, 772, 767, 784, 804, 844, 859],
+					"all_points_y": [189, 332, 402, 529, 665, 761, 793, 863, 865, 793, 750, 582, 480, 355, 274, 181, 189]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [714, 738, 742, 778, 799, 799, 799, 791, 795, 761, 719, 702, 672, 651, 665, 687, 693, 693, 712, 714],
+					"all_points_y": [844, 842, 704, 719, 663, 608, 514, 417, 293, 174, 117, 87, 157, 283, 374, 453, 589, 674, 699, 844]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1954, 2228, 2360, 2349, 2281, 2107, 1716, 1652, 1694, 1754, 1828, 1894, 1954],
+					"all_points_y": [1065, 1163, 1071, 625, 253, 100, 87, 102, 257, 385, 623, 787, 1065]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1395, 1473, 1531, 1624, 1611, 1643, 1762, 1764, 1718, 1641, 1592, 1395],
+					"all_points_y": [117, 281, 383, 631, 918, 967, 986, 421, 253, 147, 106, 117]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1465, 1603, 1633, 1645, 1609, 1558, 1446, 1424, 1469, 1456, 1456, 1465],
+					"all_points_y": [916, 957, 889, 521, 351, 266, 251, 336, 461, 629, 791, 916]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1254, 1254, 1324, 1322, 1303, 1273, 1261, 1254],
+					"all_points_y": [855, 855, 855, 833, 827, 827, 838, 855]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1046, 1095, 1093, 1091, 1052, 1042, 1046],
+					"all_points_y": [874, 876, 852, 835, 829, 850, 874]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217844_501_11.jpg786700": {
+		"fileref": "",
+		"size": 786700,
+		"filename": "162a_2019_110619_217844_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [251, 317, 295, 381, 451, 451, 412, 330, 272, 162, 215, 181, 189, 217, 257, 251],
+					"all_points_y": [886, 886, 506, 576, 568, 219, 85, 30, 9, 94, 191, 278, 434, 512, 525, 886]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [417, 497, 487, 542, 597, 646, 527, 425, 370, 427, 429, 429, 417],
+					"all_points_y": [852, 855, 429, 548, 521, 249, 11, 6, 111, 249, 366, 521, 852]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1494, 1494, 1558, 1580, 1573, 1524, 1477, 1494],
+					"all_points_y": [865, 865, 869, 844, 823, 821, 842, 865]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1730, 1818, 1835, 1803, 1750, 1722, 1730],
+					"all_points_y": [912, 918, 884, 838, 833, 861, 912]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [923, 980, 989, 976, 935, 927, 923],
+					"all_points_y": [842, 850, 829, 812, 806, 827, 842]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"162a_2019_110619_217845_501_11.jpg818500": {
+		"fileref": "",
+		"size": 818500,
+		"filename": "162a_2019_110619_217845_501_11.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1037, 1057, 1033, 1016, 1037],
+					"all_points_y": [810, 791, 772, 795, 810]
+				},
+				"region_attributes": {
+					"Custom": "Streetsign"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [47, 119, 121, 221, 300, 347, 264, 310, 357, 287, 230, 17, 13, 23, 51, 47],
+					"all_points_y": [940, 942, 506, 568, 557, 504, 423, 357, 236, 151, 23, 6, 336, 446, 449, 940]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1546, 1546, 1626, 1643, 1626, 1571, 1531, 1546],
+					"all_points_y": [878, 878, 884, 844, 812, 825, 844, 878]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1820, 1854, 1943, 1941, 1926, 1843, 1809, 1820],
+					"all_points_y": [914, 927, 918, 884, 846, 838, 876, 914]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [910, 844, 867, 923, 910],
+					"all_points_y": [840, 842, 804, 801, 840]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			}
+		}
+	},
+	"IMG_20190807_173150.jpg5303114": {
+		"fileref": "",
+		"size": 5303114,
+		"filename": "IMG_20190807_173150.jpg",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2484, 2641, 2980, 3212, 3655, 3759, 3830, 3741, 4005, 4119, 4119, 2374, 2359, 2363, 2484],
+					"all_points_y": [2213, 1988, 1792, 1745, 1742, 1824, 2002, 2106, 2998, 3216, 3262, 3252, 3077, 2706, 2213]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2531, 2531, 2602, 2613, 2598, 2502, 2388, 2302, 2313, 2327, 2445, 2531],
+					"all_points_y": [1488, 1488, 1096, 882, 810, 789, 914, 1096, 1321, 1449, 1506, 1488]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [1838, 1838, 1913, 1945, 2509, 2499, 1935, 1899, 1838],
+					"all_points_y": [1542, 1692, 1688, 1653, 1670, 1578, 1578, 1531, 1542]
+				},
+				"region_attributes": {
+					"Custom": "Streetlight"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2791, 2791, 2823, 2695, 2659, 2641, 2691, 2384, 2406, 2506, 2513, 2570, 2631, 2709, 2791],
+					"all_points_y": [621, 621, 428, 396, 282, 153, 14, 7, 125, 357, 575, 678, 714, 714, 621]
+				},
+				"region_attributes": {
+					"Custom": "Car"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2402, 2270, 2149, 1863, 1763, 1674, 1742, 1831, 1867, 1967, 2077, 2270, 2256, 2391, 2402],
+					"all_points_y": [2002, 2010, 2302, 2320, 2142, 1892, 1731, 1649, 1738, 1674, 1660, 1710, 1924, 1913, 2002]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [2413, 2213, 2309, 2277, 1571, 1513, 1571, 2084, 2242, 2224, 2409, 2413],
+					"all_points_y": [2456, 2434, 2170, 2102, 2188, 2381, 2609, 2695, 2695, 2541, 2527, 2456]
+				},
+				"region_attributes": {
+					"Custom": "Tree"
+				}
+			}
+		}
+	}
+}
